@@ -280,3 +280,12 @@
 [submodule "mods/dmobs"]
 	path = mods/dmobs
 	url = https://notabug.org/TenPlus1/dmobs
+[submodule "mods/minetest_playereffects"]
+	path = mods/minetest_playereffects
+	url = https://repo.or.cz/minetest_playereffects.git
+[submodule "mods/minetest_pep"]
+	path = mods/minetest_pep
+	url = https://repo.or.cz/minetest_pep.git
+[submodule "mods/scifi_nodes"]
+	path = mods/scifi_nodes
+	url = https://github.com/D00Med/scifi_nodes
