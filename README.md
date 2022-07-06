@@ -1,3 +1,21 @@
+# Chaos Game
+
+collection of mods
+
+original readme for minetest_game below
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Minetest Game
 
 The default game bundled in the Minetest engine.
