@@ -79,9 +79,6 @@
 [submodule "mods/gloopblocks"]
 	path = mods/gloopblocks
 	url = https://github.com/mt-mods/gloopblocks
-[submodule "mods/glooptest"]
-	path = mods/glooptest
-	url = https://github.com/GloopMaster/glooptest
 [submodule "mods/ilights"]
 	path = mods/ilights
 	url = https://github.com/mt-mods/ilights
@@ -211,3 +208,6 @@
 [submodule "mods/worldedit"]
 	path = mods/worldedit
 	url = https://github.com/Uberi/Minetest-WorldEdit
+[submodule "mods/hangglider"]
+	path = mods/hangglider
+	url = https://github.com/mt-mods/hangglider
