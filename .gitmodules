@@ -211,3 +211,6 @@
 [submodule "mods/hangglider"]
 	path = mods/hangglider
 	url = https://github.com/mt-mods/hangglider
+[submodule "mods/glooptest"]
+	path = mods/glooptest
+	url = https://github.com/minetest-mods/glooptest
