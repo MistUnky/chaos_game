@@ -214,3 +214,69 @@
 [submodule "mods/glooptest"]
 	path = mods/glooptest
 	url = https://github.com/minetest-mods/glooptest
+[submodule "mods/pbj_pup"]
+	path = mods/pbj_pup
+	url = https://notabug.org/TenPlus1/pbj_pup
+[submodule "mods/compost"]
+	path = mods/compost
+	url = https://github.com/minetest-mods/compost
+[submodule "mods/hopper"]
+	path = mods/hopper
+	url = https://github.com/minetest-mods/hopper
+[submodule "mods/moremesecons"]
+	path = mods/moremesecons
+	url = https://github.com/minetest-mods/MoreMesecons
+[submodule "mods/vector_extras"]
+	path = mods/vector_extras
+	url = https://github.com/HybridDog/vector_extras
+[submodule "mods/stamina"]
+	path = mods/stamina
+	url = https://github.com/minetest-mods/stamina
+[submodule "mods/ethereal"]
+	path = mods/ethereal
+	url = https://notabug.org/TenPlus1/ethereal
+[submodule "mods/sumpf"]
+	path = mods/sumpf
+	url = https://github.com/HybridDog/sumpf
+[submodule "mods/glow-pack"]
+	path = mods/glow-pack
+	url = https://github.com/HybridDog/glow-pack
+[submodule "mods/riesenpilz"]
+	path = mods/riesenpilz
+	url = https://github.com/HybridDog/riesenpilz
+[submodule "mods/nether-pack"]
+	path = mods/nether-pack
+	url = https://github.com/HybridDog/nether-pack
+[submodule "mods/smartfs"]
+	path = mods/smartfs
+	url = https://github.com/minetest-mods/smartfs
+[submodule "mods/other_worlds"]
+	path = mods/other_worlds
+	url = https://notabug.org/TenPlus1/other_worlds
+[submodule "mods/3d_armor"]
+	path = mods/3d_armor
+	url = https://github.com/minetest-mods/3d_armor
+[submodule "mods/mobs_redo"]
+	path = mods/mobs_redo
+	url = https://notabug.org/tenplus1/mobs_redo
+[submodule "mods/mobs_animal"]
+	path = mods/mobs_animal
+	url = https://notabug.org/tenplus1/mobs_animal
+[submodule "mods/mobs_monster"]
+	path = mods/mobs_monster
+	url = https://notabug.org/TenPlus1/mobs_monster
+[submodule "mods/mobs_npc"]
+	path = mods/mobs_npc
+	url = https://notabug.org/TenPlus1/mobs_npc
+[submodule "mods/mob_horse"]
+	path = mods/mob_horse
+	url = https://notabug.org/TenPlus1/mob_horse
+[submodule "mods/mobs_water"]
+	path = mods/mobs_water
+	url = https://notabug.org/TenPlus1/mobs_water
+[submodule "mods/creeper"]
+	path = mods/creeper
+	url = https://notabug.org/TenPlus1/creeper
+[submodule "mods/dmobs"]
+	path = mods/dmobs
+	url = https://notabug.org/TenPlus1/dmobs
