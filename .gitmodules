@@ -295,12 +295,6 @@
 [submodule "mods/dynamic_liquid"]
 	path = mods/dynamic_liquid
 	url = https://github.com/minetest-mods/dynamic_liquid
-[submodule "mods/nssm"]
-	path = mods/nssm
-	url = https://notabug.org/TenPlus1/nssm
-[submodule "mods/nssb"]
-	path = mods/nssb
-	url = https://notabug.org/TenPlus1/nssb
 [submodule "mods/lakes"]
 	path = mods/lakes
 	url = https://github.com/Sokomine/lakes
