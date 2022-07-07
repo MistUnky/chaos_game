@@ -301,3 +301,12 @@
 [submodule "mods/nssb"]
 	path = mods/nssb
 	url = https://notabug.org/TenPlus1/nssb
+[submodule "mods/lakes"]
+	path = mods/lakes
+	url = https://github.com/Sokomine/lakes
+[submodule "mods/hud_analog_clock"]
+	path = mods/hud_analog_clock
+	url = https://github.com/APercy/hud_analog_clock
+[submodule "mods/minetest_treasurer"]
+	path = mods/minetest_treasurer
+	url = https://repo.or.cz/minetest_treasurer.git
