@@ -277,9 +277,6 @@
 [submodule "mods/creeper"]
 	path = mods/creeper
 	url = https://notabug.org/TenPlus1/creeper
-[submodule "mods/dmobs"]
-	path = mods/dmobs
-	url = https://notabug.org/TenPlus1/dmobs
 [submodule "mods/minetest_playereffects"]
 	path = mods/minetest_playereffects
 	url = https://repo.or.cz/minetest_playereffects.git
