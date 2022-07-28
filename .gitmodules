@@ -301,3 +301,6 @@
 [submodule "mods/minetest_treasurer"]
 	path = mods/minetest_treasurer
 	url = https://repo.or.cz/minetest_treasurer.git
+[submodule "mods/lorebooks"]
+	path = mods/lorebooks
+	url = https://github.com/DokimiCU/lorebooks
